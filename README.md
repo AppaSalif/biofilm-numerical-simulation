@@ -13,3 +13,12 @@
 - Étude des propriétés fondamentales : consistance, stabilité, TVD, principe du maximum.
 - Convergence des schémas sur l’équation de Burgers.
 - Simulation réaliste de la croissance d’un biofilm à 3 phases (algues, EPS, liquide).
+
+## Auteur
+Appa Salif Baba Sonko
+
+Université de Lille – Master 1 Calcul Scientifique
+
+Stage effectué au sein de l'équipe RAPSODI – Inria Lille
+
+📧 appasalifbaba.sonko.etu@univ-lille.fr
